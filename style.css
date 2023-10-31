@@ -1,0 +1,230 @@
+.video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    min-width: 100%;
+    min-height: 100%;
+}
+  
+.color-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #826a5f;
+    width: 100%;
+    height: 100vh;
+    opacity: 0.5;
+    object-fit: cover;
+}
+
+.h1-judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    position: relative;
+    color: #f8e4db;
+}
+
+.isi-judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.isi-milea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.isi-bawahjudul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.img-milea {
+    width: 20%;
+    height: 30%;
+    position: relative;
+}
+
+.h2-bawahjudul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-style: italic;
+    color: #f8e4db;
+}
+
+.h3-petunjuk {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.peta {
+    margin-right: 40;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40;
+    position: relative;
+}
+
+.h3-prolog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    color: #f8e4db;
+}
+
+.isi-tengah {
+    background-color: #f8e4db;
+    width: 750px;
+    height: 150px;
+    border: 4px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 50%;
+    margin-left: -370;
+    position: relative;
+}
+
+.ul-tengah {
+    list-style-type: none;
+    margin-right: 40;
+    position: relative;
+}
+
+
+.isi-pengantar {
+    background-color : #f8e4db;
+    width: 650px;
+    height: 30px;
+    border: 4px;
+    border-radius: 10px;
+    left: 50%;
+    margin-left: -320;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20;
+    margin-bottom: 20;
+    position: relative;
+}
+
+.kolom-peta {
+    background-color : #f8e4db;
+    width: 650px;
+    height: 500px;
+    border: 4px;
+    border-radius: 10px;
+    left: 50%;
+    margin-left: -320;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.tengah2-tulisan {
+    margin-right: 40
+    position: relative;
+}
+
+.ul-tengah2 {
+    list-style-type: none;
+    position: relative;
+}
+
+.isi-tengah3 {
+    background-color: #f8e4db;
+    width: 650px;
+    height: 30px;
+    border: 4px;
+    border-radius: 10px;
+    left: 50%;
+    margin-left: -320;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20;
+    position: relative;
+}
+
+.h3-RSVP {
+    margin-left: 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.tengah3 {
+    background-color : #f8e4db;
+    width: 650px;
+    height: 100px;
+    border: 4px;
+    border-radius: 10px;
+    left: 50%;
+    margin-left: -320;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20;
+    margin-bottom: 20;
+    position: relative;
+}
+
+.p-konfirmasi {
+    list-style-type: none;
+    position: relative;
+    margin-left: -40;
+}
+
+.a-kontak {
+    list-style-type: none ;
+    position: relative;
+    margin-left: 40;
+}
+
+.rsvp {
+    position: relative;
+    margin-left: 130;
+}
+
+.h3-catatan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    color: #f8e4db;
+}
+
+.h3-salampenutup {
+    margin-bottom: 40px;
+    margin-left: 1100;
+    position: relative;
+    color: #f8e4db;
+}
+
+.h3-milea {
+    margin-left: 1115;
+    position: relative;
+    color: #f8e4db;
+}
+
